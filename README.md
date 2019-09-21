@@ -1,5 +1,6 @@
 # HumanLikeWritingBot
-A robot that writes human like handwriting with the help of a deep learning model.
+A robot that writes human like handwriting with the help of a deep learning model.<br>
+This project was made in collaboration with [Manoj Sharma](https://github.com/manojsharma221). <br>
 
 ## Approach
 ### On observing from top level, the project consists of 2 parts :
