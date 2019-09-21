@@ -1,0 +1,1 @@
+Paste the folder you get after extracting and downloading "original-xml_part.tar.gz" from the official website holding the IAM Handwriting dataset.
