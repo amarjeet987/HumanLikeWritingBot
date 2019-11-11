@@ -37,7 +37,7 @@ This project was made in collaboration with [Manoj Sharma](https://github.com/ma
 </dd></dl>
 
 ## Resources :
-1) <a href="https://arxiv.org/abs/1308.0850">Alex Grave's Handwriting Generation Paper</a><br>
+1) <a href="https://arxiv.org/abs/1308.0850">Alex Grave's Handwriting Generation Paper</a><br><br>
 2) Helpful Github repos : <br>
 * https://github.com/snowkylin/rnn-handwriting-generation <br>
 * https://github.com/Grzego/handwriting-generation <br>
